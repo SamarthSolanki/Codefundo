@@ -1,2 +1,5 @@
-# Codefundo
-Idea
+# Codefundo Idea
+
+Voting in phases, if not causes a problem, have many issues related to consumption of security assistance, data storage, time, and resources, which overall is the consumption of much money. It is not the best form of voting, but an alternative voting system to a system in which all citizen votes at the same time. If somehow we can save this money, use it for something sustainable, it would be better.
+So, we are introducing the idea of celebrating elections at the same time all over India. What we are going to do is that we make the whole process of choosing a candidate online. Now, where is blockchain used? Each booth data connected, each zone data is connected, similar for constituencies, states. One day for voting with blockchain not only helps in a free and fair election, but it also increases security, reliability, rate of hacks and doubts in technical aspects are also resisted, at last voting is digitalized.
+Besides the reduction of financial losses and loss in the workforce, we can get the maximum profit out of it by instant declaration after the closing of the poll. 
